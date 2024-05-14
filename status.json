@@ -1,0 +1,10 @@
+{
+    "success": true,
+    "code": null,
+    "message": null,
+    "data": {
+        "state": 1,
+        "versionInfo": "7.0.0.9"
+    },
+    "encryptData": false
+}
